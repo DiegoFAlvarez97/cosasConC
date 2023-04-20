@@ -1,0 +1,8 @@
+C:\Users\Diego\source\repos\PracticaConC#\ConceptosPOO\obj\Debug\ConceptosPOO.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\PracticaConC#\ConceptosPOO\obj\Debug\ConceptosPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\source\repos\PracticaConC#\ConceptosPOO\obj\Debug\ConceptosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\PracticaConC#\ConceptosPOO\bin\Debug\ConceptosPOO.exe.config
+C:\Users\Diego\source\repos\PracticaConC#\ConceptosPOO\bin\Debug\ConceptosPOO.exe
+C:\Users\Diego\source\repos\PracticaConC#\ConceptosPOO\bin\Debug\ConceptosPOO.pdb
+C:\Users\Diego\source\repos\PracticaConC#\ConceptosPOO\obj\Debug\ConceptosPOO.exe
+C:\Users\Diego\source\repos\PracticaConC#\ConceptosPOO\obj\Debug\ConceptosPOO.pdb

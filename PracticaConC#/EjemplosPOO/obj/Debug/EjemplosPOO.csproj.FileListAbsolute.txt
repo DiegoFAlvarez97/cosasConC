@@ -1,0 +1,8 @@
+C:\Users\Diego\source\repos\PracticaConC#\EjemplosPOO\bin\Debug\EjemplosPOO.exe.config
+C:\Users\Diego\source\repos\PracticaConC#\EjemplosPOO\bin\Debug\EjemplosPOO.exe
+C:\Users\Diego\source\repos\PracticaConC#\EjemplosPOO\bin\Debug\EjemplosPOO.pdb
+C:\Users\Diego\source\repos\PracticaConC#\EjemplosPOO\obj\Debug\EjemplosPOO.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\PracticaConC#\EjemplosPOO\obj\Debug\EjemplosPOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\source\repos\PracticaConC#\EjemplosPOO\obj\Debug\EjemplosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\PracticaConC#\EjemplosPOO\obj\Debug\EjemplosPOO.exe
+C:\Users\Diego\source\repos\PracticaConC#\EjemplosPOO\obj\Debug\EjemplosPOO.pdb

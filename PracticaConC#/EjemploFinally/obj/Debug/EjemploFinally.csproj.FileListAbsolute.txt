@@ -1,0 +1,8 @@
+C:\Users\Diego\source\repos\PracticaConC#\EjemploFinally\bin\Debug\EjemploFinally.exe.config
+C:\Users\Diego\source\repos\PracticaConC#\EjemploFinally\bin\Debug\EjemploFinally.exe
+C:\Users\Diego\source\repos\PracticaConC#\EjemploFinally\bin\Debug\EjemploFinally.pdb
+C:\Users\Diego\source\repos\PracticaConC#\EjemploFinally\obj\Debug\EjemploFinally.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\PracticaConC#\EjemploFinally\obj\Debug\EjemploFinally.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\source\repos\PracticaConC#\EjemploFinally\obj\Debug\EjemploFinally.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\PracticaConC#\EjemploFinally\obj\Debug\EjemploFinally.exe
+C:\Users\Diego\source\repos\PracticaConC#\EjemploFinally\obj\Debug\EjemploFinally.pdb

@@ -1,0 +1,8 @@
+C:\Users\Diego\source\repos\PracticaConC#\UsoCoches\bin\Debug\UsoCoches.exe.config
+C:\Users\Diego\source\repos\PracticaConC#\UsoCoches\bin\Debug\UsoCoches.exe
+C:\Users\Diego\source\repos\PracticaConC#\UsoCoches\bin\Debug\UsoCoches.pdb
+C:\Users\Diego\source\repos\PracticaConC#\UsoCoches\obj\Debug\UsoCoches.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\PracticaConC#\UsoCoches\obj\Debug\UsoCoches.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\source\repos\PracticaConC#\UsoCoches\obj\Debug\UsoCoches.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\PracticaConC#\UsoCoches\obj\Debug\UsoCoches.exe
+C:\Users\Diego\source\repos\PracticaConC#\UsoCoches\obj\Debug\UsoCoches.pdb

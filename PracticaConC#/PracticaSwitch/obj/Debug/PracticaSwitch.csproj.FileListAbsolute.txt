@@ -1,0 +1,8 @@
+C:\Users\Diego\source\repos\PracticaConC#\PracticaSwitch\bin\Debug\PracticaSwitch.exe.config
+C:\Users\Diego\source\repos\PracticaConC#\PracticaSwitch\bin\Debug\PracticaSwitch.exe
+C:\Users\Diego\source\repos\PracticaConC#\PracticaSwitch\bin\Debug\PracticaSwitch.pdb
+C:\Users\Diego\source\repos\PracticaConC#\PracticaSwitch\obj\Debug\PracticaSwitch.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\PracticaConC#\PracticaSwitch\obj\Debug\PracticaSwitch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\source\repos\PracticaConC#\PracticaSwitch\obj\Debug\PracticaSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\PracticaConC#\PracticaSwitch\obj\Debug\PracticaSwitch.exe
+C:\Users\Diego\source\repos\PracticaConC#\PracticaSwitch\obj\Debug\PracticaSwitch.pdb

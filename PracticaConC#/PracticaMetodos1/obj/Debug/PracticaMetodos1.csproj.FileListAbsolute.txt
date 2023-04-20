@@ -1,0 +1,8 @@
+C:\Users\Diego\source\repos\PracticaMetodos1\bin\Debug\PracticaMetodos1.exe.config
+C:\Users\Diego\source\repos\PracticaMetodos1\bin\Debug\PracticaMetodos1.exe
+C:\Users\Diego\source\repos\PracticaMetodos1\bin\Debug\PracticaMetodos1.pdb
+C:\Users\Diego\source\repos\PracticaMetodos1\obj\Debug\PracticaMetodos1.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\PracticaMetodos1\obj\Debug\PracticaMetodos1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\source\repos\PracticaMetodos1\obj\Debug\PracticaMetodos1.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\PracticaMetodos1\obj\Debug\PracticaMetodos1.exe
+C:\Users\Diego\source\repos\PracticaMetodos1\obj\Debug\PracticaMetodos1.pdb

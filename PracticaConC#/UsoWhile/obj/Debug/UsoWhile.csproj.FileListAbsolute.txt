@@ -1,0 +1,8 @@
+C:\Users\Diego\source\repos\PracticaConC#\UsoWhile\bin\Debug\UsoWhile.exe.config
+C:\Users\Diego\source\repos\PracticaConC#\UsoWhile\bin\Debug\UsoWhile.exe
+C:\Users\Diego\source\repos\PracticaConC#\UsoWhile\bin\Debug\UsoWhile.pdb
+C:\Users\Diego\source\repos\PracticaConC#\UsoWhile\obj\Debug\UsoWhile.csproj.AssemblyReference.cache
+C:\Users\Diego\source\repos\PracticaConC#\UsoWhile\obj\Debug\UsoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\source\repos\PracticaConC#\UsoWhile\obj\Debug\UsoWhile.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\PracticaConC#\UsoWhile\obj\Debug\UsoWhile.exe
+C:\Users\Diego\source\repos\PracticaConC#\UsoWhile\obj\Debug\UsoWhile.pdb
